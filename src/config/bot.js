@@ -302,7 +302,7 @@ export const botConfig = {
   // =========================
   verification: {
     // Message shown when posting the verification panel.
-    defaultMessage: "Click the button below to verify yourself and gain access to the server!",
+    defaultMessage: "Kliknij przycisk weryfikacj na dole aby dostać pełny dostęb do serwera !",
 
     // Text on the verification button.
     defaultButtonText: "Verify",
